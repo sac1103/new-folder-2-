@@ -1,3 +1,3 @@
-# new-folder-2-
+# test package
 
 demo for python package creation
